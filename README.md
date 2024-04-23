@@ -5,21 +5,7 @@ Module 13 Object-Relational Mapping (ORM): E-Commerce Back End
 ---
 
 ## Contents
-[Description](#description)
 
-[User Story](#user-story)
-
-[Acceptance Criteria](#acceptance-criteria)
-
-[Installation](#installation)
-
-[Usage](#usage)
-
-[Resources & Credit](#resourcescredit)
-
-[Features](#features)
-
-[Images](#images)
 
 ---
 
@@ -68,12 +54,7 @@ node server.js
 Testing of the code was completed in Insomnia
 
 ## Resources/Credit
-* Starter Code Provided by UofM Bootcamp 
-* Learning Assistance
-* UofM Instructors & TA's
-* Bryan Borek
-* Ely 
-* Jeremiah Kendl 
+
 
 ## Features
 * Express.js
