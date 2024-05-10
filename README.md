@@ -1,16 +1,23 @@
-# MOD13-E-commerce-Back-End NEEDTOOEDIT!!!
+# MOD13-E-commerce-Back-End 
 # E-Commerce Back End
 Module 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ---
 
-## Contents
+## Web Links
+
+Repository: 
+
+Video Walkthrough: 
 
 
 ---
 
 ## Description 
-Building the back end for an e-commerce site. Starter code has been prrovided. The goal is to configure a working Express.js API to use Sequelize to interact with a MySQL database.
+```
+This task requires building the back end for an e-commerce site. Starter code has been given. 
+The goal is to configure a working Express.js API to use Sequelize to interact with a SQL database.
+```
 
 ### User Story
 ```md
@@ -22,7 +29,6 @@ SO THAT my company can compete with other e-commerce companies
 ### Acceptance Criteria 
 ```md
 GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
 WHEN I enter schema and seed commands
 THEN a development database is created and is seeded with test data
@@ -36,30 +42,30 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 ```
-npm i
+npm install 
 ```
 
 ## Usage
 ```
-mysql -u root -p 
+1. Ensure all dependancies are installed: Express, Postgres, SQL, Node.
 ```
-when prompted type in your MySQL password
+2. Create .env file and ensure appropriate credentials are entered. 
 ```
-source db/schema.sql
-exit
+source db/schema.sql (using DBEAVER)
 npm run seed
 node server.js
-```
 
-Testing of the code was completed in Insomnia
+```
+Database was created using DBeaver.
+Testing of the code was completed in Insomnia.
 
 ## Resources/Credit
 
+Created by SongBirdCode with assistance from tutors as needed. 
 
 ## Features
 * Express.js
-* MySQL
+* Node
 * Sequelize
 
 ## Images
-![Insomnia Image]
