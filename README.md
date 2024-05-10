@@ -10,7 +10,7 @@ Module 13 Object-Relational Mapping (ORM): E-Commerce Back End
 ---
 
 ## Description 
-Building the bakc end for an e-commerce site. Starter code has been prrovided. The goal is to configure a working Express.js API to use Sequelize to interact with a MySQL database.
+Building the back end for an e-commerce site. Starter code has been prrovided. The goal is to configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ### User Story
 ```md
