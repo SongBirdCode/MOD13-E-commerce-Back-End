@@ -6,10 +6,10 @@ Module 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Web Links
 
-Repository: 
-
-Video Walkthrough: 
-
+Repository: [
+](https://github.com/SongBirdCode/MOD13-E-commerce-Back-End)
+Video Walkthrough: [
+](https://app.screencastify.com/v2/manage/videos/UsIcOQrfS6C0ZoEsTZyl)
 
 ---
 
@@ -26,7 +26,7 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
 
-### Acceptance Criteria 
+### Acceptance Criteria Given
 ```md
 GIVEN a functional Express.js API
 THEN I am able to connect to a database using Sequelize
