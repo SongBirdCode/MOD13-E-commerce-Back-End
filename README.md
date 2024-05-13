@@ -68,4 +68,3 @@ Created by SongBirdCode with assistance from tutors as needed.
 * Node
 * Sequelize
 
-## Images
